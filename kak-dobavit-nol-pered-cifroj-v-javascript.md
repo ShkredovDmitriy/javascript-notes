@@ -1,5 +1,3 @@
-[На главную](https://github.com/ShkredovDmitriy/javascript-notes/blob/main/README.md)
-
 ## Как добавить ноль перед цифрой в JavaScript?
 
 #### Иногда нужно вывести число, например, это могут быть часы или минуты, и чтобы количество символов всегда было равно двум. Например, если это восемь часов утра то нам нужно добавить ноль вначале и вывести "08". 
@@ -46,3 +44,5 @@
   let hours = 8;
   return `0000000${hours}`.slice(-7);
 ```
+
+[На главную](https://github.com/ShkredovDmitriy/javascript-notes/blob/main/README.md)
