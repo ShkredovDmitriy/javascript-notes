@@ -45,4 +45,6 @@
   return `0000000${hours}`.slice(-7);
 ```
 
+[Как вычислить разницу между датами в javascript](https://github.com/ShkredovDmitriy/javascript-notes/blob/main/kak-vychislit-raznicu-mezhdu-datami-v-javascript.md)
+
 [На главную](https://github.com/ShkredovDmitriy/javascript-notes/blob/main/README.md)
