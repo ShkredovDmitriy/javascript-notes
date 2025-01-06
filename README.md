@@ -1,4 +1,4 @@
-# JavaScript заметки 
+# JavaScript - Полезные заметки
 
 [Как добавить ноль перед цифрой в javascript](https://github.com/ShkredovDmitriy/javascript-notes/blob/main/kak-dobavit-nol-pered-cifroj-v-javascript.md)
 
