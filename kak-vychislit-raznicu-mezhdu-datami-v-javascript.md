@@ -49,3 +49,5 @@
   const minutes = Math.floor((diff % (60 * 60)) / 60);
   const seconds = Math.floor(diff % 60);
 ```
+
+[На главную](https://github.com/ShkredovDmitriy/javascript-notes/blob/main/README.md)
